@@ -16,7 +16,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-recipe-card-made-with-tailwind-css-CNv1wvp3gy)
-- Live Site URL: [Live Site](https://github.com/dimasrdev/recipe-page-frontendmentor)
+- Live Site URL: [Live Site](https://dimasrdev.github.io/recipe-page-frontendmentor/)
 
 ## My process
 
